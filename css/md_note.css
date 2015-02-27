@@ -171,6 +171,8 @@ table th {
 
 body table
 {
+  font-size: 0.96em;
+  line-height: 1.1em;
   display:block;
   overflow:auto;
   width:100%;

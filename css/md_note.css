@@ -361,6 +361,11 @@ blockquote.author-date p{
 .syntaxhighlighter .comments, .syntaxhighlighter .comments a {
     color: gray !important;
 }
+
+.syntaxhighlighter .preprocessor, .syntaxhighlighter .preprocessor a {
+    color: #C7A396 !important;
+}
+
 .syntaxhighlighter .shell.functions{
     color: #7E461A !important;
     font-weight: bold !important;
@@ -371,6 +376,8 @@ a.right {
 a.left {
     float: left;
 }
+
+
 
 code{
     border: 0;
